@@ -1,4 +1,4 @@
-baseURL = "https://normandiewebschool.fr"
+baseURL = "https://heuristic-kilby-6af53b.netlify.app"
 enableRobotsTXT = true
 languageCode = "fr-fr"
 summaryLength = "10"
