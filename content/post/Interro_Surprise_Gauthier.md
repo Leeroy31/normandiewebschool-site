@@ -10,7 +10,7 @@ archives = "2021"
 seo_image = "/uploads/post/Interro_Gauthier.png"
 +++
 
-![postwidth](/uploads/post/Interro_Gauthier.png)
+![postwidth](/uploads/post/Interro_Gauthier.jpeg-Optim)
 
 Retour sur Gauthier qui donne son avis sur l'école.
 
