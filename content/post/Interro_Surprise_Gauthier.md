@@ -22,4 +22,4 @@ C’est au tour de Gauthier, élève de 2ème année (maintenant 3ème !) en Web
 
 Découvrez le résultat dans cette courte vidéo :
 
-[![postwidth](/uploads/post/Interro_Gauthier_YT.png)](https://youtu.be/DiAwESpciDY "Normandie Web School Interro surprise Gauthier")
+[![postwidth](/uploads/post/Interro_Gauthier_YT-Optim.jpg)](https://youtu.be/DiAwESpciDY "Normandie Web School Interro surprise Gauthier")
